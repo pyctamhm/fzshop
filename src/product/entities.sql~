@@ -1,0 +1,3 @@
+create table Product(
+  product_type
+);
